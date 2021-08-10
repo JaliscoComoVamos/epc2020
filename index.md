@@ -9,7 +9,7 @@ title: Bootstrap 4 Github Pages
 
       <section class="jumbotron text-center">
         <div class="container">
-          <h1 class="text-white jumbotron-heading">Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</h1>
+          <h1 class="text-white jumbotron-heading">Plataforma Interactiva Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</h1>
           <img style="height:30vh; margin: 2% 0;" src="logo-jcv-blanco.png">
           <p class="lead text-white">Cada dos años salimos a preguntarle a las y  los tapatíos cómo se sienten con su calidad de vida. En nuestras encuestas de percepción se lee la historia de lo que nos han ido contando.</p>
           <p class="text-white">Esta plataforma presenta los resultados de la encuesta 2020 para su consulta digital. <br>En la parte superior derecha podrás visualizar los resultados por tema.</p>
