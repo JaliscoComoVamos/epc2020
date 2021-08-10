@@ -29,7 +29,7 @@ title: Bootstrap 4 Github Pages
                 <div class="card-body">
                   <p class="card-text">Bienestar subjetivo</p>
                   <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group text-center">
+                    <div class="text-center">
                       <a href="bienestar-subjetivo.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
                     </div>
                
@@ -55,12 +55,12 @@ title: Bootstrap 4 Github Pages
                   
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="movilidad.png">
+                <img class="card-img-top" src="recreacion.png">
                 <div class="card-body">
-                  <p class="card-text">Movilidad</p>
+                  <p class="card-text">Educación, cultura, recreación y vivienda</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group text-center">
-                      <a href="movilidad.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
+                      <a href="educacion-cultura-recreacion-vivienda.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
                     </div>
                
                   </div>
@@ -70,18 +70,61 @@ title: Bootstrap 4 Github Pages
                   
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="movilidad.png">
+                <img class="card-img-top" src="gobierno.png">
                 <div class="card-body">
-                  <p class="card-text">Movilidad</p>
+                  <p class="card-text">Gobierno</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group text-center">
-                      <a href="movilidad.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
+                      <a href="gobierno.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
                     </div>
-               
                   </div>
                 </div>
               </div>
             </div>
+            
+                   <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" src="relaciones-personales.png">
+                <div class="card-body">
+                  <p class="card-text">Relaciones personales y economía</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group text-center">
+                      <a href="relaciones-interpersonales-economia.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+                     <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" src="seguridad.png">
+                <div class="card-body">
+                  <p class="card-text">Seguridad y medio ambiente</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group text-center">
+                      <a href="seguridad-medio-ambiente.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+                     <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" src="ciudadania.png">
+                <div class="card-body">
+                  <p class="card-text">Ciudadanía</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group text-center">
+                      <a href="ciudadania.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            
 
 <!--
            
