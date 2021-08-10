@@ -26,6 +26,8 @@ title: Bootstrap 4 Github Pages
 
           <div class="row">
             <h3 class="text-center center-text">Consulta por temáticas</h3>
+          </div>
+          <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="bienestar.png">
