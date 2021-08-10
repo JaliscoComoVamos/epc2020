@@ -32,7 +32,7 @@ title: Bootstrap 4 Github Pages
                     <div class="btn-group">
                       <a href="bienestar-subjetivo.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
                     </div>
-                    <small class="text-muted">9 mins</small>
+               
                   </div>
                 </div>
               </div>
