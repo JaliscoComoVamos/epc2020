@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
 ---
 
 
