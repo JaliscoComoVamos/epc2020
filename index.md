@@ -20,7 +20,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
       </section>
 <!-- start info -->
            <div class="container">
-      <div class="row text-center center-text" style="margin:10% 0;">
+      <div class="row text-center center-text" style="margin:15% 0;">
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Interactúa</h2>
