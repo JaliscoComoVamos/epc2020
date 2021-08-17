@@ -19,7 +19,7 @@ title: Bootstrap 4 Github Pages
         </div>
       </section>
 <!-- start info -->
-      
+           <div class="container">
       <div class="row">
           <div class="col-lg-4">
             <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
@@ -40,6 +40,7 @@ title: Bootstrap 4 Github Pages
            
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
+      </div><!-- /.container --> 
  <!-- close info -->     
       
       <div class="album py-5 bg-light">
