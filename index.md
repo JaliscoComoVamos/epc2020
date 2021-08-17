@@ -29,8 +29,8 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
     style="width:250px;height:250px">
              </lord-icon></div>
             <h2>Interactúa</h2>
-            <p>Con los datos de la EPC2020. Genera tus propias visualizaciones de tablas cruzadas con nuestros datos</p>
-           <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Guía de uso</a></p>
+            <p>Esta plataforma está habilitada para poder interactuar y cruzar los datos de la #EPC2020 para generar tus propias visualizaciones</p>
+           <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Conoce cómo hacerlo en nuestra guía de uso</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
            <div>
@@ -42,8 +42,8 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
 </lord-icon>
             </div>
             <h2>Descarga</h2>
-            <p>los datos generados desde Tableau en formato PDF o PNG. También puedes descargar nuestra base de datos.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Datos abiertos</a></p>
+            <p>La plataforma permite generar archivso en formato PDF o PNG para su descarga. También puedes descargar nuestra base de datos en nuestro sitio oficial www.jaliscocomovamos.org</p>
+            <p><a class="btn btn-secondary" href="#" role="button">Consulta nuestros datos abiertos</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
            <div>
@@ -56,7 +56,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
             </div>
             <h2>Comparte</h2>
             <p>Los datos que más te interesan en tus documentos, reportajes, investigaciones o redes sociales.</p>
-           
+           <p><a class="btn btn-secondary" href="#" role="button">Comparte</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
       </div><!-- /.container --> 
