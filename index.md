@@ -22,7 +22,12 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
            <div class="container">
       <div class="row text-center center-text" style="margin:15% 0;">
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+           <lord-icon
+    src="https://cdn.lordicon.com/pndvzexs.json"
+    trigger="loop"
+    colors="primary:#ed8189,secondary:#545454"
+    style="width:250px;height:250px">
+</lord-icon>
             <h2>Interactúa</h2>
             <p>Con los datos de la EPC2020. Genera tus propias visualizaciones de tablas cruzadas con nuestros datos</p>
            <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Guía de uso</a></p>
