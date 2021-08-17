@@ -30,7 +30,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
              </lord-icon></div>
             <h2>Interactúa</h2>
             <p>Esta plataforma está habilitada para poder interactuar y cruzar los datos de la #EPC2020 para generar tus propias visualizaciones</p>
-           <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Conoce cómo hacerlo en nuestra guía de uso</a></p>
+           <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Consulta la guía de uso</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
            <div>
