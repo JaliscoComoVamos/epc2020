@@ -33,13 +33,27 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
            <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Guía de uso</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+           <div>
+             <lord-icon
+    src="https://cdn.lordicon.com/wcjauznf.json"
+    trigger="loop"
+    colors="primary:#ed8189,secondary:#545454"
+    style="width:250px;height:250px">
+</lord-icon>
+            </div>
             <h2>Descarga</h2>
             <p>los datos generados desde Tableau en formato PDF o PNG. También puedes descargar nuestra base de datos.</p>
             <p><a class="btn btn-secondary" href="#" role="button">Datos abiertos</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+           <div>
+             <lord-icon
+    src="https://cdn.lordicon.com/koyivthb.json"
+    trigger="loop"
+    colors="primary:#545454,secondary:#ed8189"
+    style="width:250px;height:250px">
+</lord-icon>
+            </div>
             <h2>Comparte</h2>
             <p>Los datos que más te interesan en tus documentos, reportajes, investigaciones o redes sociales.</p>
            
