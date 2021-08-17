@@ -46,7 +46,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
       <div class="album py-5 bg-light">
         <div class="container">
 
-          <div class="row" style="margin:10% 0;">
+          <div class="row" style="margin:15% 0;">
             <h3 class="text-center center-text">Consulta por temáticas</h3>
           </div>
           <div class="row">
