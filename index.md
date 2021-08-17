@@ -11,15 +11,36 @@ title: Bootstrap 4 Github Pages
         <div class="container">
           <h1 class="text-white jumbotron-heading">Plataforma Interactiva Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</h1>
           <img style="height:30vh; margin: 2% 0;" src="logo-jcv-blanco.png">
-          <p class="lead text-white">Cada dos años salimos a preguntarle a las y  los tapatíos cómo se sienten con su calidad de vida. En nuestras encuestas de percepción se lee la historia de lo que nos han ido contando.</p>
+          <p class="lead text-white">Cada dos años salimos a preguntarle a las y  los tapatíos cómo se sienten con su calidad de vida. <br>En nuestras encuestas de percepción se lee la historia de lo que nos han ido contando.</p>
           <p class="text-white">Esta plataforma presenta los resultados de la encuesta 2020 para su consulta digital. <br>En la parte superior derecha podrás visualizar los resultados por tema.</p>
           <p>
             <a href="https://bit.ly/epc-2020" target="_blank" class="btn btn-primary my-2">Descarga la publicación digital de la Encuesta 2020</a>
           </p>
         </div>
       </section>
-
+<!-- start info -->
       
+      <div class="row">
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+            <h2>Interactúa</h2>
+            <p>Con los datos de la EPC2020. Genera tus propias visualizaciones de tablas cruzadas con nuestros datos</p>
+           
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+            <h2>Descarga</h2>
+            <p>los datos generados desde Tableau en formato PDF o PNG. También puedes descargar nuestra base de datos.</p>
+            <p><a class="btn btn-secondary" href="#" role="button">Datos abiertos</a></p>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+            <h2>Comparte</h2>
+            <p>Los daots que más te interesan en tus documentos, reportajes, investigaciones o redes sociales.</p>
+           
+          </div><!-- /.col-lg-4 -->
+        </div><!-- /.row -->
+ <!-- close info -->     
       
       <div class="album py-5 bg-light">
         <div class="container">
