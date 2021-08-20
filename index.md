@@ -23,6 +23,19 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
 <!-- start info -->
            <div style="scroll-behavior: smooth;" id="informacion" class="container">
       <div class="row text-center center-text" style="margin:15% 0;">
+         <div class="col-lg-4">
+           <div>
+         <lord-icon
+    src="https://cdn.lordicon.com/jvucoldz.json"
+    trigger="loop"
+    colors="primary:#545454,secondary:#ed8189"
+    style="width:250px;height:250px">
+</lord-icon>
+            </div>
+            <h2>Navega</h2>
+            <p>Los resultados de la encuesta se encuentran agrupados por secciones, y las secciones se componen de varias temáticas de nuestra encuesta.</p>
+           <p><a class="btn btn-secondary" href="#tematicas" role="button">Consulta las temáticas</a></p>
+          </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
            <div class=""><lord-icon
     src="https://cdn.lordicon.com/pndvzexs.json"
@@ -43,29 +56,17 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
     style="width:250px;height:250px">
 </lord-icon>
             </div>
-            <h2>Descarga</h2>
-            <p>Descarga las visualizaciones en archivos formato PDF o PNG. Visita nuestra <a target="_blank" href="http://jaliscocomovamos.org/datos-abiertos">base de datos en nuestro sitio oficial</a>.</p>
+            <h2>Descarga y comparte</h2>
+            <p>Comparte los resultados que más te interesan en tus documentos, reportajes, investigaciones o redes sociales. Descarga las visualizaciones en archivos formato PDF o PNG. Visita nuestra <a target="_blank" href="http://jaliscocomovamos.org/datos-abiertos">base de datos en nuestro sitio oficial</a>. </p>
             <p><a class="btn btn-secondary" href="#" role="button">Consulta nuestros datos abiertos</a></p>
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
-           <div>
-             <lord-icon
-    src="https://cdn.lordicon.com/koyivthb.json"
-    trigger="loop"
-    colors="primary:#545454,secondary:#ed8189"
-    style="width:250px;height:250px">
-</lord-icon>
-            </div>
-            <h2>Comparte</h2>
-            <p>Los resultados que más te interesan en tus documentos, reportajes, investigaciones o redes sociales.</p>
-           <p><a class="btn btn-secondary" href="#" role="button">Comparte</a></p>
-          </div><!-- /.col-lg-4 -->
+         
         </div><!-- /.row -->
       </div><!-- /.container --> 
  <!-- close info -->     
       
       <div class="album py-5 bg-light">
-        <div class="container">
+        <div ="#tematicas" class="container">
 
           <div class="row" style="margin:8% 0;">
             <div class="col-md-6">
