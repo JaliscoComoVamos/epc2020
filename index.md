@@ -11,8 +11,8 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
         <div class="container">
           <h1 class="text-white jumbotron-heading">Plataforma Interactiva de la Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</h1>
           <img style="height:30vh; margin: 2% 0;" src="logo-jcv-blanco.png">
-          <p class="lead text-white">Cada dos años salimos a preguntarle a las y  los tapatíos cómo se sienten con su calidad de vida. <br>En nuestras encuestas de percepción se lee la historia de lo que nos han ido contando.</p>
-          <p class="text-white">Esta plataforma presenta los resultados de la encuesta 2020. <br>Desliza más abajo para conocer las temáticas para consulta.</p>
+          <p class="lead text-white">Cada dos años salimos a preguntarle a las y los tapatíos del AMG cómo se sienten con su calidad de vida. <br>En nuestras encuestas de percepción se lee la historia de lo que nos han ido contando las y los habitantes de los municipios de El Salto, Tonalá, San Pedro Tlaquepaque, Tlajomulco de Zúñiga, Guadalajara y Zapopan.</p>
+          <p class="text-white">Esta plataforma presenta los resultados de la <a href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciuadana sobre Calidad de Vida 2020</a>.  <br>Desliza más abajo para conocer las temáticas para consulta.</p>
           <p>
             <a href="https://bit.ly/epc-2020" target="_blank" class="btn btn-primary my-2">Descarga la publicación digital de la Encuesta 2020</a>
           </p>
@@ -29,8 +29,8 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
     style="width:250px;height:250px">
              </lord-icon></div>
             <h2>Interactúa</h2>
-            <p>Esta plataforma está habilitada para poder interactuar y cruzar los datos de la #EPC2020 para generar tus propias visualizaciones</p>
-           <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Consulta la guía de uso</a></p>
+            <p>Navega e interactua con los resultados de la <a blank="_target" href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</a>. Conoce la plataforma y genera tus propias visualizaciones.</p>
+           <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Guía de uso</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
            <div>
@@ -42,7 +42,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
 </lord-icon>
             </div>
             <h2>Descarga</h2>
-            <p>La plataforma permite generar archivso en formato PDF o PNG para su descarga. También puedes descargar nuestra base de datos en nuestro sitio oficial www.jaliscocomovamos.org</p>
+            <p>Descarga las visualizaciones en archivos formato PDF o PNG. Visita nuestra <a target="_blank" href="http://jaliscocomovamos.org/datos-abiertos">base de datos en nuestro sitio oficial</a>.</p>
             <p><a class="btn btn-secondary" href="#" role="button">Consulta nuestros datos abiertos</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
@@ -55,7 +55,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
 </lord-icon>
             </div>
             <h2>Comparte</h2>
-            <p>Los datos que más te interesan en tus documentos, reportajes, investigaciones o redes sociales.</p>
+            <p>Los resultados que más te interesan en tus documentos, reportajes, investigaciones o redes sociales.</p>
            <p><a class="btn btn-secondary" href="#" role="button">Comparte</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
