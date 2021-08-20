@@ -16,7 +16,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
           <p class="lead text-white">En esta plataforma interactiva presentamos una nueva manera de interactuar con los resultados de las encuestas de percepción, y aquí se podrán encontrar los resultados de la <a href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciuadana sobre Calidad de Vida 2020</a>.</p> 
           <p class="lead text-white">¿Cómo se sienten las y los tapatíos con su vida? ¿Son felices? </p>
           <p>
-            <a href="#informacion" target="_blank" class="btn btn-primary my-2">Más información</a>
+            <a href="#informacion" target="_blank" class="btn btn-primary my-2">Conoce la plataforma</a>
           </p>
         </div>
       </section>
