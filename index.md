@@ -56,8 +56,8 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
     style="width:250px;height:250px">
 </lord-icon>
             </div>
-            <h2>Descarga y comparte</h2>
-            <p>Comparte los resultados que más te interesan en tus documentos, reportajes, investigaciones o redes sociales. <br>Descarga las visualizaciones en archivos formato PDF o PNG. </p>
+            <h2>Descarga</h2>
+            <p>Comparte los resultados que más te interesan en tus documentos, reportajes, investigaciones o redes sociales. <br>Descarga nuestra base de datos. </p>
             <p><a class="btn btn-secondary" target="_blank" href="http://jaliscocomovamos.org/datos-abiertos" role="button">Consulta nuestros datos abiertos</a></p>
           </div><!-- /.col-lg-4 -->
          
@@ -66,11 +66,11 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
  <!-- close info -->     
       
       <div class="album py-5 bg-light">
-        <div class="#tematicas" class="container">
+        <div id="#tematicas" class="container">
 
           <div class="row" style="margin:8% 0;">
             <div class="col-md-6">
-            <h2 class="text-center center-text">Consulta por temáticas</h2>
+            <h2 class="text-center center-text">Consulta las temáticas</h2>
           </div>
                 </div>
           <div class="row">
