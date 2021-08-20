@@ -11,15 +11,17 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
         <div class="container">
           <h1 class="text-white jumbotron-heading">Plataforma Interactiva de la Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</h1>
           <img style="height:30vh; margin: 2% 0;" src="logo-jcv-blanco.png">
-          <p class="lead text-white">Cada dos años salimos a preguntarle a las y los tapatíos del AMG cómo se sienten con su calidad de vida. <br>En nuestras encuestas de percepción se lee la historia de lo que nos han ido contando las y los habitantes de los municipios de El Salto, Tonalá, San Pedro Tlaquepaque, Tlajomulco de Zúñiga, Guadalajara y Zapopan.</p>
-          <p class="lead text-white">Esta plataforma presenta los resultados de la <a href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciuadana sobre Calidad de Vida 2020</a>.  <br>Desliza más abajo para conocer las temáticas para consulta.</p>
+          <p class="lead text-white">La felicidad y satisfacción de las y los tapatíos está definida por sus vivencias en el Área Metropolitana de Guadalajara. </p>
+          <p><Queremos conocer las motivaciones, preocupaciones, miedos y estilo de vida de quienes habitan los municipios de El Salto, Tonalá, San Pedro Tlaquepaque, Tlajomulco de Zúñiga, Guadalajara y Zapopan, y por eso cada dos años salimos a preguntarles cómo viven la ciudad y cómo sienten su calidad de vida. Las historias que cuentan han quedado plasmadas en nuestras Encuestas de Percepción. </p>
+          <p class="lead text-white">En esta plataforma interactiva presentamos una nueva manera de interactuar con los resultados de las encuestas de percepción, y aquí se podrán encontrar los resultados de la <a href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciuadana sobre Calidad de Vida 2020</a>.</p> 
+          <p>¿Cómo se sienten las y los tapatíos con su vida? ¿Son felices? </p>
           <p>
-            <a href="https://bit.ly/epc-2020" target="_blank" class="btn btn-primary my-2">Descarga la publicación digital de la Encuesta 2020</a>
+            <a href="#informacion" target="_blank" class="btn btn-primary my-2">Más información</a>
           </p>
         </div>
       </section>
 <!-- start info -->
-           <div class="container">
+           <div id="informacion" class="container">
       <div class="row text-center center-text" style="margin:15% 0;">
           <div class="col-lg-4">
            <div class=""><lord-icon
