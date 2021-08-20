@@ -16,12 +16,12 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
           <p class="lead text-white">En esta plataforma interactiva presentamos una nueva manera de interactuar con los resultados de las encuestas de percepción, y aquí se podrán encontrar los resultados de la <a href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciuadana sobre Calidad de Vida 2020</a>.</p> 
           <p class="lead text-white">¿Cómo se sienten las y los tapatíos con su vida? ¿Son felices? </p>
           <p>
-            <a href="#informacion" target="_blank" class="btn btn-primary my-2">Conoce la plataforma</a>
+            <a class="smooth" href="#informacion" class="btn btn-primary my-2">Conoce la plataforma</a>
           </p>
         </div>
       </section>
 <!-- start info -->
-           <div id="informacion" class="container">
+           <div style="scroll-behavior: smooth;" id="informacion" class="container">
       <div class="row text-center center-text" style="margin:15% 0;">
           <div class="col-lg-4">
            <div class=""><lord-icon
@@ -183,3 +183,31 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
       </div>
 
     </main>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a.smooth").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
