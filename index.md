@@ -44,7 +44,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
     style="width:250px;height:250px">
              </lord-icon></div>
             <h2>Interactúa</h2>
-            <p>Navega e interactua con los resultados de la <a blank="_target" href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</a>. Conoce la plataforma y genera tus propias visualizaciones.</p>
+            <p>Navega e interactua con los resultados de la <a blank="_target" href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</a>. <br>Conoce la plataforma y genera tus propias visualizaciones.</p>
            <p><a class="btn btn-secondary" href="guia-de-uso.html" role="button">Guía de uso</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
@@ -57,8 +57,8 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
 </lord-icon>
             </div>
             <h2>Descarga y comparte</h2>
-            <p>Comparte los resultados que más te interesan en tus documentos, reportajes, investigaciones o redes sociales. Descarga las visualizaciones en archivos formato PDF o PNG. Visita nuestra <a target="_blank" href="http://jaliscocomovamos.org/datos-abiertos">base de datos en nuestro sitio oficial</a>. </p>
-            <p><a class="btn btn-secondary" href="#" role="button">Consulta nuestros datos abiertos</a></p>
+            <p>Comparte los resultados que más te interesan en tus documentos, reportajes, investigaciones o redes sociales. <br>Descarga las visualizaciones en archivos formato PDF o PNG. </p>
+            <p><a class="btn btn-secondary" target="_blank" href="http://jaliscocomovamos.org/datos-abiertos" role="button">Consulta nuestros datos abiertos</a></p>
           </div><!-- /.col-lg-4 -->
          
         </div><!-- /.row -->
@@ -66,7 +66,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
  <!-- close info -->     
       
       <div class="album py-5 bg-light">
-        <div ="#tematicas" class="container">
+        <div class="#tematicas" class="container">
 
           <div class="row" style="margin:8% 0;">
             <div class="col-md-6">
