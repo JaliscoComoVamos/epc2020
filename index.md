@@ -135,7 +135,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
             
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="gobierno.png">
+                <img class="card-img-top" src="salud.png">
                 <div class="card-body">
                   <p class="card-text">Salud</p>
                   <div class="d-flex justify-content-between align-items-center">
