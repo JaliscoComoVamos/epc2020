@@ -74,7 +74,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
           </div>
                 </div>
           <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-3 col-sm-6">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="bienestar.png">
                 <div class="card-body">
@@ -89,7 +89,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               </div>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-md-3 col-sm-6">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="movilidad.png">
                 <div class="card-body">
@@ -104,7 +104,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               </div>
             </div>
                   
-            <div class="col-md-3">
+            <div class="col-md-3 col-sm-6">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="recreacion.png">
                 <div class="card-body">
@@ -119,7 +119,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               </div>
             </div>
                   
-            <div class="col-md-3">
+            <div class="col-md-3 col-sm-6">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="gobierno.png">
                 <div class="card-body">
@@ -133,7 +133,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               </div>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-md-3 col-sm-6">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="salud.png">
                 <div class="card-body">
@@ -147,7 +147,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               </div>
             </div>
             
-                   <div class="col-md-3">
+                   <div class="col-md-3 col-sm-6">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="relaciones-personales.png">
                 <div class="card-body">
@@ -161,7 +161,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               </div>
             </div>
             
-                     <div class="col-md-3">
+                     <div class="col-md-3 col-sm-6">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="seguridad.png">
                 <div class="card-body">
@@ -175,7 +175,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               </div>
             </div>
             
-                     <div class="col-md-3">
+                     <div class="col-md-3 col-sm-6">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="ciudadania.png">
                 <div class="card-body">
