@@ -165,7 +165,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="seguridad.png">
                 <div class="card-body">
-                  <p class="card-text">Seguridad y medio ambiente</p>
+                  <p class="card-text">Seguridad y medio ambiente</p><br>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group text-center">
                       <a href="seguridad-medio-ambiente.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
