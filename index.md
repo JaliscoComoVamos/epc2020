@@ -78,7 +78,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="bienestar.png">
                 <div class="card-body">
-                  <p class="card-text">Bienestar subjetivo</p>
+                  <p class="card-text">Bienestar subjetivo</p><br>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="text-center">
                       <a href="bienestar-subjetivo.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
@@ -93,7 +93,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="movilidad.png">
                 <div class="card-body">
-                  <p class="card-text">Movilidad</p>
+                  <p class="card-text">Movilidad</p><br>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group text-center">
                       <a href="movilidad.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
@@ -123,7 +123,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="gobierno.png">
                 <div class="card-body">
-                  <p class="card-text">Gobierno</p>
+                  <p class="card-text">Gobierno</p><br>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group text-center">
                       <a href="gobierno.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
@@ -137,7 +137,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="salud.png">
                 <div class="card-body">
-                  <p class="card-text">Salud</p>
+                  <p class="card-text">Salud</p><br>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group text-center">
                       <a href="salud.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
@@ -179,7 +179,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="ciudadania.png">
                 <div class="card-body">
-                  <p class="card-text">Ciudadanía</p>
+                  <p class="card-text">Ciudadanía</p><br>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group text-center">
                       <a href="ciudadania.html"><button type="button" class="btn btn-sm btn-outline-secondary">Consultar datos</button></a>
