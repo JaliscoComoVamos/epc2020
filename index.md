@@ -12,15 +12,18 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
           <div class="row justify-content-md-center">
             <div class="col-md-8 ">
           <h4 class="text-white jumbotron-heading">Plataforma Interactiva de la Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</h4>
-              <p class="lead text-white">Actualización enero 2022</p>
+     
           </div>   </div>
           <img style="height:15vh; margin: 2% 0;" src="logo-jcv-blanco.png">
           <div class="row justify-content-md-center">
             <div class="col-md-8 ">
-          <p class="text-white">La felicidad y satisfacción de las y los tapatíos está definida por sus vivencias en el Área Metropolitana de Guadalajara. </p>
-          <p class="text-white">Queremos conocer las motivaciones, preocupaciones, miedos y estilo de vida de quienes habitan los municipios de El Salto, Tonalá, San Pedro Tlaquepaque, Tlajomulco de Zúñiga, Guadalajara y Zapopan, y por eso cada dos años salimos a preguntarles cómo viven la ciudad y cómo sienten su calidad de vida. Las historias que cuentan han quedado plasmadas en nuestras Encuestas de Percepción. </p>
-          <p class="text-white">En esta plataforma interactiva presentamos una nueva manera de interactuar con los resultados de las encuestas de percepción, y aquí se podrán encontrar los resultados de la <a href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciuadana sobre Calidad de Vida 2020</a>.</p> 
-          <p class="text-white">¿Cómo se sienten las y los tapatíos con su vida? ¿Son felices? </p>  </div>   </div>
+          <p class="text-white">La felicidad y satisfacción de las y los tapatíos está definida por sus vivencias en el Área Metropolitana de Guadalajara. Cada dos años, Jalisco Cómo Vamos realiza una encuesta de percepción ciudadana para conocer la calidad de vida de quiénes habitan los municipios de El Salto, Tonalá, San Pedro Tlaquepaque, Tlajomulco de Zúñiga, Guadalajara y Zapopan. En esta plataforma se encuentran los resultados de la <a href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciuadana sobre Calidad de Vida 2020</a>, disponible en un formato virtual que permite interactuar con los datos de manera específica e interactiva.</p>
+          
+              <span class="border border-white rounded" style="padding:5px;">
+              <p class="lead text-white">Actualización enero 2022</p>
+              <p class="text-white">La visualización de los datos ahora incluye la opción de filtrar la información por municipios, además de mostrar los resultadoss del conjunto global del AMG.</p></span>
+            
+            </div>   </div>
           <p>
             <a class="smooth" href="#informacion" class="btn btn-primary my-2">Conoce la plataforma</a>
           </p>
