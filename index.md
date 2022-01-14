@@ -19,9 +19,9 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
             <div class="col-md-8 ">
           <p class="text-white">La felicidad y satisfacción de las y los tapatíos está definida por sus vivencias en el Área Metropolitana de Guadalajara. Cada dos años, Jalisco Cómo Vamos realiza una encuesta de percepción ciudadana para conocer la calidad de vida de quiénes habitan los municipios de El Salto, Tonalá, San Pedro Tlaquepaque, Tlajomulco de Zúñiga, Guadalajara y Zapopan. En esta plataforma se encuentran los resultados de la <a href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciuadana sobre Calidad de Vida 2020</a>, disponible en un formato virtual que permite interactuar con los datos de manera específica e interactiva.</p>
           
-              <span class="border border-white rounded" style="padding:5px;">
+              <div class="border border-white rounded" style="padding:5px;">
               <p class="lead text-white">Actualización enero 2022</p>
-              <p class="text-white">La visualización de los datos ahora incluye la opción de filtrar la información por municipios, además de mostrar los resultadoss del conjunto global del AMG.</p></span>
+              <p class="text-white">La visualización de los datos ahora incluye la opción de filtrar la información por municipios, además de mostrar los resultadoss del conjunto global del AMG.</p></div>
             
             </div>   </div>
           <p>
