@@ -34,7 +34,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
     src="https://cdn.lordicon.com/jvucoldz.json"
     trigger="loop"
     colors="primary:#545454,secondary:#ed8189"
-    style="width:250px;height:250px">
+    style="width:180px;height:180px">
 </lord-icon>
             </div>
             <h2>Navega</h2>
@@ -46,7 +46,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
     src="https://cdn.lordicon.com/pndvzexs.json"
     trigger="loop"
     colors="primary:#ed8189,secondary:#545454"
-    style="width:250px;height:250px">
+    style="width:180px;height:180px">
              </lord-icon></div>
             <h2>Interactúa</h2>
             <p>Navega e interactua con los resultados de la <a blank="_target" href="bit.ly/epc-2020">Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</a>. <br>Conoce la plataforma y genera tus propias visualizaciones.</p>
@@ -58,7 +58,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
     src="https://cdn.lordicon.com/wcjauznf.json"
     trigger="loop"
     colors="primary:#ed8189,secondary:#545454"
-    style="width:250px;height:250px">
+    style="width:180px;height:180px">
 </lord-icon>
             </div>
             <h2>Descarga</h2>
