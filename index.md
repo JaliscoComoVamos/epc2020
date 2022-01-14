@@ -7,9 +7,12 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
   <body>
     <main role="main">
 
-      <section class="jumbotron text-center">
+        <section class="jumbotron text-center">
         <div class="container">
+          <div class="row justify-content-md-center">
+            <div class="col-md-8">
           <h4 class="text-white jumbotron-heading">Plataforma Interactiva de la Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</h4>
+          </div>
           <img style="height:20vh; margin: 2% 0;" src="logo-jcv-blanco.png">
           <p class="text-white">La felicidad y satisfacción de las y los tapatíos está definida por sus vivencias en el Área Metropolitana de Guadalajara. </p>
           <p class="text-white">Queremos conocer las motivaciones, preocupaciones, miedos y estilo de vida de quienes habitan los municipios de El Salto, Tonalá, San Pedro Tlaquepaque, Tlajomulco de Zúñiga, Guadalajara y Zapopan, y por eso cada dos años salimos a preguntarles cómo viven la ciudad y cómo sienten su calidad de vida. Las historias que cuentan han quedado plasmadas en nuestras Encuestas de Percepción. </p>
@@ -20,6 +23,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
           </p>
         </div>
       </section>
+          
 <!-- start info -->
            <div style="scroll-behavior: smooth;" id="informacion" class="container">
       <div class="row text-center center-text" style="margin:5% 0;">
