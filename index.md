@@ -12,6 +12,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
           <div class="row justify-content-md-center">
             <div class="col-md-8 ">
           <h4 class="text-white jumbotron-heading">Plataforma Interactiva de la Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020</h4>
+              <p class="lead">Actualización enero 2022</p>
           </div>   </div>
           <img style="height:15vh; margin: 2% 0;" src="logo-jcv-blanco.png">
           <div class="row justify-content-md-center">
