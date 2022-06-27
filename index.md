@@ -21,7 +21,7 @@ title: Séptima Encuesta de Percepción Ciudadana sobre Calidad de Vida 2020
           
               <div class="border border-white rounded" style="padding:5px;">
               <p class="lead text-white">Actualización febrero 2022</p>
-              <p class="text-white">La visualización de los datos ahora incluye la opción de filtrar la información por municipios, además de mostrar los resultadoss del conjunto global del AMG.</p></div>
+              <p class="text-white">La visualización de los datos ahora incluye la opción de filtrar la información por municipios, además de mostrar los resultados del conjunto global del AMG.</p></div>
             
             </div>   </div>
           <p>
